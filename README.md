@@ -1,3 +1,3 @@
 # demo
 my first git repo
-My name is Gangaputra
+My name is G
